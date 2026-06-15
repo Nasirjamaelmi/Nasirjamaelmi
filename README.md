@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Nasir Jama Elmi
 
-## 🚀 Software Engineer | AI Engineer | Android Developer
+## 🚀 Software Engineer | AI Engineer 
 
 I'm a Software Engineer with a background in Computer Engineering and Software Development. I enjoy building scalable applications, mobile solutions, backend services, and AI-powered systems. My interests span across software engineering, machine learning, natural language processing, cloud computing, and mobile development.
 
