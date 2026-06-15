@@ -11,7 +11,7 @@ My interests span across Software Engineering, Artificial Intelligence, Deep Lea
 ## 🧠 About Me
 
 * 🎓 B.Sc. in Computer Engineering – Software Development & Mobile Platforms
-* 🎓 M.Sc. Student in AI Engineering
+* 🎓 M.Sc. in AI Engineering
 * 🤖 AI Engineering, Machine Learning & Deep Learning
 * 📱 Android Development with Kotlin & Jetpack Compose
 * 🍎 iOS Development with Swift & SwiftUI
